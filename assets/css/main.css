@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #232a31;
 	}
 
 	body, input, select, textarea {
@@ -314,7 +314,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(220, 220, 220, 0.25);
+		background: rgba(89, 161, 243, 0.25);
 		border-color: #eeeeee;
 	}
 
